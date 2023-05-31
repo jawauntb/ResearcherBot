@@ -1,4 +1,4 @@
-# I originally wrote this as a script in a Jupyter notebook. Haven't published a lot of that work so I wanted to start here.
+# I originally wrote this as a script in a Jupyter notebook. Haven't published a lot of that work so I wanted to start here. More coming soon, breaking notebook into repos
 from langchain.agents import initialize_agent
 from langchain.agents import load_tools
 from langchain.chains import LLMChain
